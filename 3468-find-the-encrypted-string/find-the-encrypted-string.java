@@ -7,5 +7,6 @@ class Solution {
         String a=s+s;
         String r=a.substring(k,o+k);
         return r;
+        
     }
 }
